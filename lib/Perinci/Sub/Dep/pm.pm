@@ -4,7 +4,7 @@ use 5.010;
 use strict;
 use warnings;
 
-use Perinci::Util qw(declare_function_dep);
+use Perinci::Sub::DepUtil qw(declare_function_dep);
 
 # VERSION
 
